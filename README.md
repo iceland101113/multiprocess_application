@@ -23,7 +23,7 @@ cd /your_folder/multiprocess_application
 python -u socket_server.py
 
 # in the second terminal, run below file to run the program
-python -u skywatch_homework.py
+python -u main_server.py
 ```
 
 
