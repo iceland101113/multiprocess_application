@@ -17,7 +17,7 @@ Python 3.7.3
 git clone https://github.com/iceland101113/origami-gallery.git
 
 # open two terminal and both go to the folder of this project
-cd ~/multiprocess_application
+cd /your_folder/multiprocess_application
 
 # in the first terminal, run below file to start socket
 python -u socket_server.py
